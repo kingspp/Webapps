@@ -1,5 +1,5 @@
 # webapp-spark
-The repo consists of webapps in different languages and frameworks
+The repo consists of a webapp in spark [JAVA]
 
 ####Common Goals:
 
