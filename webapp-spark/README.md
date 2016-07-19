@@ -6,9 +6,9 @@ The repo consists of webapps in different languages and frameworks
 1. REST API Ready &#10004;
 2. Basic Authentication &#10004;
 3. Dynamic Server Configuration &#10004;
-4. Logging Framework &#10004
-5. Testing Framework &#x2717
-6. Build and Run Scripts &#10004
+4. Logging Framework &#10004;
+5. Testing Framework &#x2717;
+6. Build and Run Scripts &#10004;
 
 
 ####Features:
