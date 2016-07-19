@@ -13,10 +13,10 @@ The repo consists of webapps in different languages and frameworks
 
 ####Projects:
 1. webapp-spark [Java]
+2. webapp-flask [Python]
 
 
-####ToDo:
-1. webapp-flask [Python]
-2. webapp-django [Python]
-3. webapp-spring [Java]
-4. webapp-scalatra [Scala]
+####Todo:
+1. webapp-django [Python]
+2. webapp-spring [Java]
+3. webapp-scalatra [Scala]
